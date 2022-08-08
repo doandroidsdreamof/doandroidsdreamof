@@ -2,6 +2,7 @@
 <h3>An eager frontend developer from Turkey</h3>
 
 🌱 I’m currently learning **React, Redux, Node.js**
+
 📫 How to reach me **mutlukuytuoglu@gmail.com**
 
 <p align="left">
