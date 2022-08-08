@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Berkay</h1>
-<h3 align="center">An eager frontend developer from Turkey</h3>
+<h1>Hi there, I'm Berkay</h1>
+<h3>An eager frontend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **React, Redux**
 
