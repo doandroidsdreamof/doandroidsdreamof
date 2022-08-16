@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Berkay</h1>
 <h3>An eager frontend developer from Turkey</h3>
 
-🌱 I’m currently learning **React, Redux, Node.js**
+🌱 I’m currently learning **React, Redux and Node.js**
 
 📫 How to reach me **mutlukuytuoglu@gmail.com**
 
