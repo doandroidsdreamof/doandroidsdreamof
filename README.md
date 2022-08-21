@@ -1,6 +1,5 @@
 <h1>Hi there, I'm Berkay</h1>
 
-How to reach me **mutlukuytuoglu@gmail.com**
 
 <p align="left">
 </p>
