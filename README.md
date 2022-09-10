@@ -10,3 +10,5 @@
 ![doandroidsdreamof's GitHub stats](https://github-readme-stats.vercel.app/api?username=doandroidsdreamof&show_icons=true&theme=radical)
 
 
+https://www.codewars.com/users/doandroidsdreamof/badges/large
+
