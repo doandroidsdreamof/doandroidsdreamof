@@ -2,7 +2,7 @@
 <p align="left">
 </p>
 
-[![doandroidsdreamof's github activity graph]([https://activity-graph.herokuapp.com/graph?username=doandroidsdreamof](https://github-readme-activity-graph.cyclic.app)&custom_title=doandroidsdreamof%20contribution%20graph&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![doandroidsdreamof's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=doandroidsdreamof)(https://github-readme-activity-graph.cyclic.app)&custom_title=doandroidsdreamof%20contribution%20graph&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![doandroidsdreamof's github streak](https://github-readme-streak-stats.herokuapp.com/?user=doandroidsdreamof&theme=blue-green)](https://github.com/doandroidsdreamof/github-readme-streak-stats)
