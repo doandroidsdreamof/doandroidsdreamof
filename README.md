@@ -6,8 +6,6 @@
 
 [![doandroidsdreamof's github streak](https://github-readme-streak-stats.herokuapp.com/?user=doandroidsdreamof&theme=blue-green)](https://github.com/doandroidsdreamof/github-readme-streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doandroidsdreamof&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 <p><img align="center" src="https://www.codewars.com/users/doandroidsdreamof/badges/large" alt="codewars" /></p>
 
 
